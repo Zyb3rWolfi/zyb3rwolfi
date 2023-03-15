@@ -10,4 +10,16 @@
 - 💼 I'm a computer science student
 - 💬 I make Discord bots
  
+<img align="right" src="https://www.kindpng.com/picc/m/274-2748314_freetoedit-menherachan-animegirl-animecute-png-kawaii-anime-girl.png" height="300" width="300">
+<h3 align="center"> Language & Skills </h3>
+
+- Python
+- C++
+- JavaScipt
+- Web Development
+- Machine Learning
+- Deep learning
+- Natural language processing
+- App Development
+  
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=s5d8yzrd1fl0b9ecj9z13cskm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=s5d8yzrd1fl0b9ecj9z13cskm&redirect=true)
