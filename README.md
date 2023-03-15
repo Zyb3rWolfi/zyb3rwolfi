@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**Zyb3rWolfi/zyb3rwolfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=s5d8yzrd1fl0b9ecj9z13cskm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=s5d8yzrd1fl0b9ecj9z13cskm&redirect=true)
 
 Here are some ideas to get you started:
 
