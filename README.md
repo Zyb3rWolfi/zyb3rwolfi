@@ -12,6 +12,8 @@
 - Python
 - C#
 - JavaScipt
+- Vue.js
+- Bootstrap & Tailwind
 - Web Development
 - Game Development
 - Discord Bot Development
